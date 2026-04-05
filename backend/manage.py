@@ -1,0 +1,1 @@
+print('Use: python manage.py runserver')

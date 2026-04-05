@@ -1,0 +1,5 @@
+
+name: local_services_app
+dependencies:
+  flutter:
+    sdk: flutter
